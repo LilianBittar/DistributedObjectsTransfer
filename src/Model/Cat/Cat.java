@@ -74,4 +74,12 @@ public class Cat {
     public void setFriendly(boolean friendly) {
         isFriendly = friendly;
     }
+
+    @Override public String toString()
+    {
+        return "Cat{" + "name='" + name + '\'' + ", breed='" + breed + '\''
+            + ", lives=" + lives + ", age=" + age + ", totalScratch="
+            + totalScratch + ", color='" + color + '\'' + ", isFriendly="
+            + isFriendly + '}';
+    }
 }
