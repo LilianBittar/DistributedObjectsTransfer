@@ -33,8 +33,9 @@ namespace SDJ3DistributedObjectsTransfer
                 Lives = 1,
                 TotalScratch = 566
             };
+            string to = serializeData.Serialize(cat2);
+            File.WriteAllText("C:\\Users\\kkash\\RiderProjects\\DistributedObjectsTransfer\\csharp\\SDJ3DistributedObjectsTransfer\\SDJ3DistributedObjectsTransfer\\cat.json",to);
 
-            serializeData.Serialize(cat2);
         }
     }
 }

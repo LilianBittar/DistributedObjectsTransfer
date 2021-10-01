@@ -7,21 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deb0a3b2-4b1e-4dfb-a4e1-24c064053392" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SDJ3DistributedObjectsTransfer/Data/ISerializeData.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SDJ3DistributedObjectsTransfer/Data/Impl/SerializeJSONData.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SDJ3DistributedObjectsTransfer/Model/CatObj/Cat.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SDJ3DistributedObjectsTransfer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SDJ3DistributedObjectsTransfer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDJ3DistributedObjectsTransfer/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SDJ3DistributedObjectsTransfer/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDJ3DistributedObjectsTransfer/obj/Debug/net5.0/SDJ3DistributedObjectsTransfer.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/SDJ3DistributedObjectsTransfer/obj/Debug/net5.0/SDJ3DistributedObjectsTransfer.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDJ3DistributedObjectsTransfer/obj/Debug/net5.0/SDJ3DistributedObjectsTransfer.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SDJ3DistributedObjectsTransfer/obj/Debug/net5.0/SDJ3DistributedObjectsTransfer.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDJ3DistributedObjectsTransfer/obj/SDJ3DistributedObjectsTransfer.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SDJ3DistributedObjectsTransfer/obj/SDJ3DistributedObjectsTransfer.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDJ3DistributedObjectsTransfer/obj/SDJ3DistributedObjectsTransfer.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SDJ3DistributedObjectsTransfer/obj/SDJ3DistributedObjectsTransfer.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDJ3DistributedObjectsTransfer/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SDJ3DistributedObjectsTransfer/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDJ3DistributedObjectsTransfer/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SDJ3DistributedObjectsTransfer/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDJ3DistributedObjectsTransfer/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SDJ3DistributedObjectsTransfer/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDJ3DistributedObjectsTransfer/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/SDJ3DistributedObjectsTransfer/obj/rider.project.restore.info" afterDir="false" />
-    </list>
+    <list default="true" id="deb0a3b2-4b1e-4dfb-a4e1-24c064053392" name="Changes" comment="necat" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,8 +61,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633075733798</updated>
-      <workItem from="1633075737858" duration="2122000" />
+      <workItem from="1633075737858" duration="2570000" />
     </task>
+    <task id="LOCAL-00001" summary="necat">
+      <created>1633078082442</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633078082442</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,5 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="necat" />
+    <option name="LAST_COMMIT_MESSAGE" value="necat" />
   </component>
 </project>
